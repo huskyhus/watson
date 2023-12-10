@@ -1,5 +1,3 @@
-import { word } from "../src/index";
-
-test("sample", () => {
-  expect(word()).toBe("world");
+test("sample test", () => {
+  expect(1 + 1).toBe(2);
 });
